@@ -2,10 +2,8 @@
 ## Rétrospective de la présentation 2
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
-
+Je pense que le point fort de ma présentation c'est la thématique des chats et ma voix mieleuse.
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
-
+Améliorer le ton de ma voix afin qu'on me comprenne bien et rendre ma présentation plus drôle afin que les spectateurs soient imerser dans mon tutoriel.
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Ian parce qu'il a bien expliqué son domaine.
