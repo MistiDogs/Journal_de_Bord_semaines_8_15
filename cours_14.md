@@ -3,8 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
-
+Un jeu de curling révolutionnaire et rigolo
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
 
@@ -14,8 +13,12 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
-### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
-
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+* Création des physique
+* Mise en route de serveurs
+* Mise en route des services
+* Application du ray tracing
+* Création des personnages
+* Création des cartes
+* Création des objets
+* Construire de toutes pièces un public fou en délire qui lève les bras et réagit au pointage
