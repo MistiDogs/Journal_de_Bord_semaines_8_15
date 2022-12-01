@@ -11,8 +11,7 @@ Décrivez les grandes lignes de votre projet.
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
-
+![image](Images/video.PNG)
 ### Tâches
 * Création des physique
 * Mise en route de serveurs
