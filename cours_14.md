@@ -8,8 +8,7 @@ Un jeu de curling révolutionnaire et rigolo
 Décrivez les grandes lignes de votre projet. 
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
-
+![image](Images/moon.PNG)
 ### Moodboard
 ![image](Images/video.PNG)
 ### Tâches
